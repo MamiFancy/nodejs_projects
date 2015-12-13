@@ -1,0 +1,1 @@
+/*console.log("start weather app");var weather=require("./weather.js");weather().then(function(a){console.log(a)},function(a){console.log(a)});
